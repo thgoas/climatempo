@@ -1,0 +1,106 @@
+Id: 4307 - Nome: Água Branca - Estado: AL, Pais: BR  
+Id: 4548 - Nome: Anadia - Estado: AL, Pais: BR  
+Id: 6404 - Nome: Arapiraca - Estado: AL, Pais: BR  
+Id: 7722 - Nome: Atalaia - Estado: AL, Pais: BR  
+Id: 7723 - Nome: Barra de Santo Antônio - Estado: AL, Pais: BR  
+Id: 7724 - Nome: Barra de São Miguel - Estado: AL, Pais: BR  
+Id: 6405 - Nome: Batalha - Estado: AL, Pais: BR  
+Id: 7725 - Nome: Belém - Estado: AL, Pais: BR  
+Id: 7726 - Nome: Belo Monte - Estado: AL, Pais: BR  
+Id: 7727 - Nome: Boca da Mata - Estado: AL, Pais: BR  
+Id: 7728 - Nome: Branquinha - Estado: AL, Pais: BR  
+Id: 4254 - Nome: Cacimbinhas - Estado: AL, Pais: BR  
+Id: 7729 - Nome: Cajueiro - Estado: AL, Pais: BR  
+Id: 7730 - Nome: Campestre - Estado: AL, Pais: BR  
+Id: 7731 - Nome: Campo Alegre - Estado: AL, Pais: BR  
+Id: 7732 - Nome: Campo Grande - Estado: AL, Pais: BR  
+Id: 7733 - Nome: Canafístula - Estado: AL, Pais: BR  
+Id: 7734 - Nome: Canapi - Estado: AL, Pais: BR  
+Id: 4046 - Nome: Capela - Estado: AL, Pais: BR  
+Id: 7735 - Nome: Carneiros - Estado: AL, Pais: BR  
+Id: 7736 - Nome: Chã Preta - Estado: AL, Pais: BR  
+Id: 7737 - Nome: Coité do Nóia - Estado: AL, Pais: BR  
+Id: 7738 - Nome: Colônia Leopoldina - Estado: AL, Pais: BR  
+Id: 7739 - Nome: Coqueiro Seco - Estado: AL, Pais: BR  
+Id: 7740 - Nome: Coruripe - Estado: AL, Pais: BR  
+Id: 7741 - Nome: Craíbas - Estado: AL, Pais: BR  
+Id: 5215 - Nome: Delmiro Gouveia - Estado: AL, Pais: BR  
+Id: 4563 - Nome: Dois Riachos - Estado: AL, Pais: BR  
+Id: 4564 - Nome: Estrela de Alagoas - Estado: AL, Pais: BR  
+Id: 4565 - Nome: Feira Grande - Estado: AL, Pais: BR  
+Id: 4566 - Nome: Feliz Deserto - Estado: AL, Pais: BR  
+Id: 4567 - Nome: Flexeiras - Estado: AL, Pais: BR  
+Id: 4305 - Nome: Girau do Ponciano - Estado: AL, Pais: BR  
+Id: 4568 - Nome: Ibateguara - Estado: AL, Pais: BR  
+Id: 6408 - Nome: Igaci - Estado: AL, Pais: BR  
+Id: 6409 - Nome: Igreja Nova - Estado: AL, Pais: BR  
+Id: 3964 - Nome: Inhapi - Estado: AL, Pais: BR  
+Id: 4569 - Nome: Jacaré dos Homens - Estado: AL, Pais: BR  
+Id: 4570 - Nome: Jacuípe - Estado: AL, Pais: BR  
+Id: 4571 - Nome: Japaratinga - Estado: AL, Pais: BR  
+Id: 4572 - Nome: Jaramataia - Estado: AL, Pais: BR  
+Id: 83457 - Nome: Jequiá da Praia - Estado: AL, Pais: BR  
+Id: 4573 - Nome: Joaquim Gomes - Estado: AL, Pais: BR  
+Id: 7742 - Nome: Jundiá - Estado: AL, Pais: BR  
+Id: 6410 - Nome: Junqueiro - Estado: AL, Pais: BR  
+Id: 7743 - Nome: Lagoa da Canoa - Estado: AL, Pais: BR  
+Id: 4426 - Nome: Limoeiro de Anadia - Estado: AL, Pais: BR  
+Id: 6809 - Nome: Maceió - Estado: AL, Pais: BR  
+Id: 7744 - Nome: Major Isidoro - Estado: AL, Pais: BR  
+Id: 6522 - Nome: Maragogi - Estado: AL, Pais: BR  
+Id: 7745 - Nome: Maravilha - Estado: AL, Pais: BR  
+Id: 7746 - Nome: Marechal Deodoro - Estado: AL, Pais: BR  
+Id: 4099 - Nome: Maribondo - Estado: AL, Pais: BR  
+Id: 3116 - Nome: Mar Vermelho - Estado: AL, Pais: BR  
+Id: 7747 - Nome: Mata Grande - Estado: AL, Pais: BR  
+Id: 7748 - Nome: Matriz de Camaragibe - Estado: AL, Pais: BR  
+Id: 7749 - Nome: Messias - Estado: AL, Pais: BR  
+Id: 7750 - Nome: Minador do Negrão - Estado: AL, Pais: BR  
+Id: 7751 - Nome: Monteirópolis - Estado: AL, Pais: BR  
+Id: 7752 - Nome: Murici - Estado: AL, Pais: BR  
+Id: 7753 - Nome: Novo Lino - Estado: AL, Pais: BR  
+Id: 4917 - Nome: Olho d'Água das Flores - Estado: AL, Pais: BR  
+Id: 7754 - Nome: Olho d'Água do Casado - Estado: AL, Pais: BR  
+Id: 7755 - Nome: Olho d'Água Grande - Estado: AL, Pais: BR  
+Id: 7756 - Nome: Olivença - Estado: AL, Pais: BR  
+Id: 7757 - Nome: Ouro Branco - Estado: AL, Pais: BR  
+Id: 7758 - Nome: Palestina - Estado: AL, Pais: BR  
+Id: 5486 - Nome: Palmeira dos Índios - Estado: AL, Pais: BR  
+Id: 7759 - Nome: Pão de Açúcar - Estado: AL, Pais: BR  
+Id: 7760 - Nome: Pariconha - Estado: AL, Pais: BR  
+Id: 7761 - Nome: Paripueira - Estado: AL, Pais: BR  
+Id: 7762 - Nome: Passo de Camaragibe - Estado: AL, Pais: BR  
+Id: 7763 - Nome: Paulo Jacinto - Estado: AL, Pais: BR  
+Id: 7764 - Nome: Penedo - Estado: AL, Pais: BR  
+Id: 7765 - Nome: Piaçabuçu - Estado: AL, Pais: BR  
+Id: 4136 - Nome: Piaçaçuba - Estado: AL, Pais: BR  
+Id: 7766 - Nome: Pilar - Estado: AL, Pais: BR  
+Id: 4591 - Nome: Pindoba - Estado: AL, Pais: BR  
+Id: 4137 - Nome: Piranhas - Estado: AL, Pais: BR  
+Id: 4592 - Nome: Poço das Trincheiras - Estado: AL, Pais: BR  
+Id: 3354 - Nome: Porto Calvo - Estado: AL, Pais: BR  
+Id: 6411 - Nome: Porto de Pedras - Estado: AL, Pais: BR  
+Id: 7767 - Nome: Porto Real do Colégio - Estado: AL, Pais: BR  
+Id: 6334 - Nome: Praia do Francês - Estado: AL, Pais: BR  
+Id: 4593 - Nome: Quebrangulo - Estado: AL, Pais: BR  
+Id: 6412 - Nome: Rio Largo - Estado: AL, Pais: BR  
+Id: 4594 - Nome: Roteiro - Estado: AL, Pais: BR  
+Id: 4595 - Nome: Santa Luzia do Norte - Estado: AL, Pais: BR  
+Id: 5487 - Nome: Santana do Ipanema - Estado: AL, Pais: BR  
+Id: 4596 - Nome: Santana do Mundaú - Estado: AL, Pais: BR  
+Id: 4598 - Nome: São Brás - Estado: AL, Pais: BR  
+Id: 4599 - Nome: São José da Laje - Estado: AL, Pais: BR  
+Id: 5488 - Nome: São José da Tapera - Estado: AL, Pais: BR  
+Id: 7768 - Nome: São Luís do Quitunde - Estado: AL, Pais: BR  
+Id: 5489 - Nome: São Miguel dos Campos - Estado: AL, Pais: BR  
+Id: 9142 - Nome: São Miguel dos Milagres - Estado: AL, Pais: BR  
+Id: 4600 - Nome: São Sebastião - Estado: AL, Pais: BR  
+Id: 4086 - Nome: Satuba - Estado: AL, Pais: BR  
+Id: 85280 - Nome: SBMO - Estado: AL, Pais: BR  
+Id: 4597 - Nome: Senador Rui Palmeira - Estado: AL, Pais: BR  
+Id: 4601 - Nome: Tanque d'Arca - Estado: AL, Pais: BR  
+Id: 4602 - Nome: Taquarana - Estado: AL, Pais: BR  
+Id: 4536 - Nome: Teotônio Vilela - Estado: AL, Pais: BR  
+Id: 7769 - Nome: Traipu - Estado: AL, Pais: BR  
+Id: 7770 - Nome: União dos Palmares - Estado: AL, Pais: BR  
+Id: 7771 - Nome: Viçosa - Estado: AL, Pais: BR  

@@ -1,0 +1,5 @@
+2024-01-10T09:20:57.380215 : {"error":true,"detail":"Invalid token"}
+2024-01-10T09:20:57.380215 : #0      buscarCidades (package:climatempo/api.dart:16:35)
+<asynchronous suspension>
+#1      executar (file:///C:/Users/thiago.CORP/estudos/o_guia_de_dart/climatempo/bin/climatempo.dart:38:21)
+<asynchronous suspension>
